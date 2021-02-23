@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.editor {
+  width: 500px;
+  margin-left: 20%;
+  border: #61dafb 1px solid;
+}
+
+.title {
+  font-size: 40px;
+  align-items: center;
+}
